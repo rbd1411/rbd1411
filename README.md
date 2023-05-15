@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbd1411&label=Profile%20views&color=0e75b6&style=flat" alt="rbd1411" /> </p>
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **HTML,CSS ,JAVA, PYTHON**
+- 💬 Ask me about **HTML,CSS ,JAVA, PYTHON, DBMS**
 
 - 📫 How to reach me **rajbangsha10@gmail.com**
-
-- ⚡ Fun fact **I am less funny while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
